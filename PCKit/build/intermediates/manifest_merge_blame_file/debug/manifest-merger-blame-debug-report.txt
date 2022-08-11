@@ -1,0 +1,52 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.pcsfg.pckit" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="26"
+7-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml
+8        android:targetSdkVersion="32" />
+8-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+10-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:6:5-79
+10-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:6:22-76
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:7:5-67
+11-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:8:5-81
+12-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:8:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:9:5-80
+13-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:9:22-77
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:10:5-65
+14-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:10:22-62
+15    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+15-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:11:5-83
+15-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:11:22-80
+16
+17    <application>
+17-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:13:5-24:19
+18        <provider
+18-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:14:9-22:20
+19            android:name="com.pcsfg.pckit.chatkit.common.extension.CameraFileProvider"
+19-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:15:13-87
+20            android:authorities="${applicationId}.com.pcsfg.pckit"
+20-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:16:13-67
+21            android:exported="false"
+21-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:18:13-37
+22            android:grantUriPermissions="true" >
+22-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:17:13-47
+23            <meta-data
+23-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:19:13-21:53
+24                android:name="android.support.FILE_PROVIDER_PATHS"
+24-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:20:17-67
+25                android:resource="@xml/filepaths" />
+25-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/src/main/AndroidManifest.xml:21:17-50
+26        </provider>
+27    </application>
+28
+29</manifest>

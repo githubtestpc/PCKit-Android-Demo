@@ -1,0 +1,179 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pcsfg.pckit_android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-79
+11-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-67
+12-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-64
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-81
+13-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-80
+14-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:22-77
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-65
+15-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:22-62
+16    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+16-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-83
+16-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:22-80
+17
+18    <application
+18-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:6:5-27:19
+19        android:allowBackup="true"
+19-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:7:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.8.0] /Users/kim.tam/.gradle/caches/transforms-3/8a9e634b9fa2342236d9d40ba886a153/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+21        android:dataExtractionRules="@xml/data_extraction_rules"
+21-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:8:9-65
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:fullBackupContent="@xml/backup_rules"
+24-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:9:9-54
+25        android:icon="@mipmap/ic_launcher"
+25-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:10:9-43
+26        android:label="@string/app_name"
+26-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:11:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:12:9-54
+28        android:supportsRtl="true"
+28-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:13:9-35
+29        android:testOnly="true"
+30        android:theme="@style/Theme.PCKitAndroid" >
+30-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:14:9-50
+31        <activity
+31-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:16:9-26:20
+32            android:name="com.pcsfg.pckit_android.MainActivity"
+32-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:17:13-41
+33            android:exported="true"
+33-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:18:13-36
+34            android:label="@string/app_name"
+34-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:19:13-45
+35            android:theme="@style/Theme.PCKitAndroid" >
+35-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:20:13-54
+36            <intent-filter>
+36-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:21:13-25:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:22:17-69
+37-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:22:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:24:17-77
+39-->/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:24:27-74
+40            </intent-filter>
+41        </activity>
+42
+43        <provider
+43-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-26:20
+44            android:name="com.pcsfg.pckit.chatkit.common.extension.CameraFileProvider"
+44-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-87
+45            android:authorities="com.pcsfg.pckit_android.com.pcsfg.pckit"
+45-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-67
+46            android:exported="false"
+46-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+47            android:grantUriPermissions="true" >
+47-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-47
+48            <meta-data
+48-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:53
+49                android:name="android.support.FILE_PROVIDER_PATHS"
+49-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+50                android:resource="@xml/filepaths" />
+50-->[:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-50
+51        </provider>
+52
+53        <activity
+53-->[androidx.compose.ui:ui-tooling:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/da1373eaa6a2f2041dbfe6c01a6a9801/transformed/ui-tooling-1.2.0/AndroidManifest.xml:24:9-26:39
+54            android:name="androidx.compose.ui.tooling.PreviewActivity"
+54-->[androidx.compose.ui:ui-tooling:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/da1373eaa6a2f2041dbfe6c01a6a9801/transformed/ui-tooling-1.2.0/AndroidManifest.xml:25:13-71
+55            android:exported="true" />
+55-->[androidx.compose.ui:ui-tooling:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/da1373eaa6a2f2041dbfe6c01a6a9801/transformed/ui-tooling-1.2.0/AndroidManifest.xml:26:13-36
+56        <activity
+56-->[androidx.compose.ui:ui-test-manifest:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/4ca44f5a7447a30af88e78eabfcb5eab/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:24:9-26:39
+57            android:name="androidx.activity.ComponentActivity"
+57-->[androidx.compose.ui:ui-test-manifest:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/4ca44f5a7447a30af88e78eabfcb5eab/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:25:13-63
+58            android:exported="true" />
+58-->[androidx.compose.ui:ui-test-manifest:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/4ca44f5a7447a30af88e78eabfcb5eab/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:26:13-36
+59
+60        <service
+60-->[androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:24:9-33:19
+61            android:name="androidx.camera.core.impl.MetadataHolderService"
+61-->[androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:25:13-75
+62            android:enabled="false"
+62-->[androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:26:13-36
+63            android:exported="false" >
+63-->[androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:27:13-37
+64            <meta-data
+64-->[androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:30:13-32:89
+65                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+65-->[androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:31:17-103
+66                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+66-->[androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:32:17-86
+67        </service>
+68
+69        <provider
+69-->[androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+70            android:name="androidx.startup.InitializationProvider"
+70-->[androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+71            android:authorities="com.pcsfg.pckit_android.androidx-startup"
+71-->[androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+72            android:exported="false" >
+72-->[androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+73            <meta-data
+73-->[androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+74                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+74-->[androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+75                android:value="androidx.startup" />
+75-->[androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+76            <meta-data
+76-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+77                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+77-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+78                android:value="androidx.startup" />
+78-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+79            <meta-data
+79-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/kim.tam/.gradle/caches/transforms-3/05573bc09cc21b73f2cf6ad8a876b023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+80                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+80-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/kim.tam/.gradle/caches/transforms-3/05573bc09cc21b73f2cf6ad8a876b023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+81                android:value="androidx.startup" />
+81-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/kim.tam/.gradle/caches/transforms-3/05573bc09cc21b73f2cf6ad8a876b023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+82        </provider>
+83
+84        <receiver
+84-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+85            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+85-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+86            android:directBootAware="false"
+86-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+87            android:enabled="true"
+87-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+88            android:exported="true"
+88-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+89            android:permission="android.permission.DUMP" >
+89-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+90            <intent-filter>
+90-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+91                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+91-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+91-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+92            </intent-filter>
+93            <intent-filter>
+93-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+94                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+94-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+94-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82
+95            </intent-filter>
+96        </receiver>
+97    </application>
+98
+99</manifest>

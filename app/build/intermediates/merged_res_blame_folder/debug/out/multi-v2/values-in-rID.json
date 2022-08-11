@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pcsfg.pckit_android.app-mergeDebugResources-71:/values-in-rID/values-in-rID.xml",
+            "map": [
+                {
+                    "source": "/Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/packaged_res/debug/values-in-rID/values-in-rID.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,111,166,236,298,382,460,545,650,719,781,828",
+                        "endColumns": "55,54,69,61,83,77,84,104,68,61,46,51",
+                        "endOffsets": "106,161,231,293,377,455,540,645,714,776,823,875"
+                    }
+                }
+            ]
+        }
+    ]
+}

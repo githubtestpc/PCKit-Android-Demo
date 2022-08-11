@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.accompanist:accompanist-webview:0.25.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1b09ad1535f20cbbfe423c29650d6630/transformed/accompanist-webview-0.25.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1b09ad1535f20cbbfe423c29650d6630/transformed/accompanist-webview-0.25.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1b09ad1535f20cbbfe423c29650d6630/transformed/accompanist-webview-0.25.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-webview/0.25.0/33ffa33d46b5198a2c823bc5b30f776d1a9d9670/accompanist-webview-0.25.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-webview/0.25.0/a1ab7ea615458c14b0e9ce324e3397c7655c46a4/accompanist-webview-0.25.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

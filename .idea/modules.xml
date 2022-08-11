@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PCKit-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/PCKit-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PCKit/PCKit-Android.PCKit.iml" filepath="$PROJECT_DIR$/.idea/modules/PCKit/PCKit-Android.PCKit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PCKit/PCKit-Android.PCKit.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/PCKit/PCKit-Android.PCKit.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PCKit/PCKit-Android.PCKit.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PCKit/PCKit-Android.PCKit.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PCKit/PCKit-Android.PCKit.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/PCKit/PCKit-Android.PCKit.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PCKit-Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PCKit-Android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PCKit-Android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PCKit-Android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PCKit-Android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PCKit-Android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PCKit-Android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PCKit-Android.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

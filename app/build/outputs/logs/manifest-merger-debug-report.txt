@@ -1,0 +1,571 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-29:12
+MERGED from [io.coil-kt:coil-compose:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/5fde92c7595f928cb5a0e177020b0907/transformed/coil-compose-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-compose-base:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/3d42e852420708d2916dbe55a31bd888/transformed/coil-compose-base-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.23.1] /Users/kim.tam/.gradle/caches/transforms-3/656a371734ca99db0f65eb44ab89a4cf/transformed/accompanist-drawablepainter-0.23.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/da1373eaa6a2f2041dbfe6c01a6a9801/transformed/ui-tooling-1.2.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.material:compose-theme-adapter:1.1.10] /Users/kim.tam/.gradle/caches/transforms-3/2d4adda866168b7b09ce93630c2aed51/transformed/compose-theme-adapter-1.1.10/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-webview:0.25.0] /Users/kim.tam/.gradle/caches/transforms-3/1b09ad1535f20cbbfe423c29650d6630/transformed/accompanist-webview-0.25.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/ff551397c0e4c62c4c2fa54a742b65b5/transformed/material-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.navigation:navigation-compose:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/ea52ee38fef47705920893c5c1a196f1/transformed/navigation-compose-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-permissions:0.25.0] /Users/kim.tam/.gradle/caches/transforms-3/535a70cabadead69b141305ba1d042ae/transformed/accompanist-permissions-0.25.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/kim.tam/.gradle/caches/transforms-3/ca8cc5be0a6e87cfbc47cf2c619910d3/transformed/activity-compose-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/64eb62ee241f5299b8c933f8a35ce0c8/transformed/ui-tooling-data-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-ripple:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/2651c83a96fb3e680b408decbfdc0b36/transformed/material-ripple-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.foundation:foundation:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/41a9f5146f87ff799e18a00dc6d6a25e/transformed/foundation-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-icons-core:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/03cbd3e38bbfb4eec1abfabf2dc72bba/transformed/material-icons-core-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.animation:animation:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/8336e35dff1a3e4312490d5c9ac46464/transformed/animation-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/c9a5a1a5238eddaf917df5f7227a69a6/transformed/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.25.0] /Users/kim.tam/.gradle/caches/transforms-3/485118f66bc149e8ddc4e97901bd01b1/transformed/accompanist-systemuicontroller-0.25.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/9bfc507e8d37fb064c22e3c82e4f58ad/transformed/foundation-layout-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.animation:animation-core:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/027f509137ed5ab0443276cf6d91b862/transformed/animation-core-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/36118554f4347023d5ea241ff8c990b9/transformed/ui-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/17ceedc568815d985f4d3774a37659e8/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/0f9726ec1014bb1a6513ee182f6315f3/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/kim.tam/.gradle/caches/transforms-3/04acc67990b36f6f9c4c338471abec96/transformed/activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/c5f476abbabc8a6a122bb1ff597c141e/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/200b6160791723f0ec25b2a2272da4df/transformed/navigation-common-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/8a9c88e8f4147e1b93dccde357f1c173/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/19d10abab3d838623a349dd33f4a1e48/transformed/ui-tooling-preview-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-text:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/995e62846167dc18f270bc426a8c6d50/transformed/ui-text-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/60ba8e1de2327924fcd06686863311f7/transformed/runtime-saveable-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-graphics:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/0055f7b281f1e788407071ebf4e58efb/transformed/ui-graphics-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-unit:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/e1869f22f527955bdb23781559d42d2c/transformed/ui-unit-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-geometry:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/818ffa0e7fc7013cf27b8315e7b1b686/transformed/ui-geometry-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/34f8efe2db63bffb4e5f46534c104055/transformed/runtime-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/bf9c083e4e17a3c95164aa35a2fb06eb/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/4ca44f5a7447a30af88e78eabfcb5eab/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.material:material:1.6.0] /Users/kim.tam/.gradle/caches/transforms-3/da23dc382b282e5ba89b1bedf729d524/transformed/material-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.camera:camera-view:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/7d28c2881fecf0ae781fc79b97795842/transformed/camera-view-1.2.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kim.tam/.gradle/caches/transforms-3/67d74bb691c4ec05aa34236cb9cb7aaf/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/kim.tam/.gradle/caches/transforms-3/8a39463ca7a3527efd979299126c223b/transformed/appcompat-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/kim.tam/.gradle/caches/transforms-3/43c2b1c86b809f8f85598142bae039fd/transformed/glide-4.13.2/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/c5337c5af883d5a89eb44de248036a9c/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kim.tam/.gradle/caches/transforms-3/e01b3c478d1cfea9eff112abfb6ab7ac/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/kim.tam/.gradle/caches/transforms-3/9349c0d4fb9df1ce2768854a860abafc/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/1d1ec35a0b073539f88987e1e3135d4a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/8169044863e32aacf8847f97d6dae8de/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/b4f8bd67f68df867f824843476c0e792/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/4424f29b450240f8d32209647411922f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/d030149fbf355c45d4d4d1aa5ed3f63d/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil-video:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/a6e1e371b108daa583a2ae956e7f6cff/transformed/coil-video-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/40276d4e874ca6a8b0973f37f54ddb21/transformed/coil-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/c8881eef46e5f475578cc118e64b3970/transformed/coil-base-2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/23c478fdbf8b10e43f8b3021dceb5959/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/kim.tam/.gradle/caches/transforms-3/9b6e7b867c439fcad6c05c2e8ffb5597/transformed/core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/6c46c8217620f1196b4254bfb03d91af/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/2c0a8024b87fc4a8dd25b71f86c885a8/transformed/ui-util-1.2.0/AndroidManifest.xml:17:1-23:12
+MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/kim.tam/.gradle/caches/transforms-3/997336e581014f22da6e73875179d9d7/transformed/timber-5.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/1551525bad72895c8c43417154f7aa5c/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-video:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/5de9b08f9622b561e2569bbbc2bb1edb/transformed/camera-video-1.2.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2910bb6d42f608a321a75e9026ea1fbf/transformed/camera-lifecycle-1.2.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/c6b5956e21c32a3476e3d699a30d17c8/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:17:1-36:12
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/kim.tam/.gradle/caches/transforms-3/b314475ea3d8c590c4113e5569225483/transformed/napier-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/9a5c9e7612bd0dc93d28606270b5c8bf/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/kim.tam/.gradle/caches/transforms-3/177006de5bcc9abcbdc2f17a27bb1d45/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/481636148d9a62f643004c16180eba3b/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kim.tam/.gradle/caches/transforms-3/78a187a07887b946401fee9339ec4fa3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kim.tam/.gradle/caches/transforms-3/b265378afefd98a05d6561c9b86651ef/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/9cc27a85b544e2bd308b01e10d0b1220/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kim.tam/.gradle/caches/transforms-3/75d77ab2d713b31cd19a64f7712ed072/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kim.tam/.gradle/caches/transforms-3/0d70a48b26e129e8342f05440a7532c7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/e43e75dfaebcfbccf6fa7f2f1a8bfd50/transformed/exoplayer-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/a0a3b700dd14fd8565c27f1721f1a902/transformed/exoplayer-dash-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/3a14090d4923299f77f3ee5d31b29d40/transformed/exoplayer-hls-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/3e40eb0ea2eef2def6be72f91f704b97/transformed/exoplayer-rtsp-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/eb7d0705e2bc70feac975bcff038b036/transformed/exoplayer-smoothstreaming-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/0ca9071adf2aba19f65f22a1380cef88/transformed/exoplayer-ui-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/afcb84e6de65f7756306acc82dc58755/transformed/exoplayer-core-2.17.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/364f02d958da6083eb7b4ab0f244e170/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/kim.tam/.gradle/caches/transforms-3/215580773b36863836b5f9386262becc/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/kim.tam/.gradle/caches/transforms-3/7774b338963ffc00386dc8c14655302e/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.4.3] /Users/kim.tam/.gradle/caches/transforms-3/3e5f057f2b6d26bff2e0b06ab67b2b84/transformed/media-1.4.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /Users/kim.tam/.gradle/caches/transforms-3/8a9e634b9fa2342236d9d40ba886a153/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kim.tam/.gradle/caches/transforms-3/05573bc09cc21b73f2cf6ad8a876b023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/d00c1625cdd4b4cdf73075b29c7d8f41/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/c385480978bb58ec994541db18fa1f78/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/30d7b27e8287aa252121891359c707f1/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.2.1] /Users/kim.tam/.gradle/caches/transforms-3/e6b512d7351a8dc7278da54d99ca3030/transformed/viewbinding-7.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kim.tam/.gradle/caches/transforms-3/8c908526ca69111e0f8d3ac93d810b89/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/67d07b777e83d33bb10df35342aa0522/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kim.tam/.gradle/caches/transforms-3/2c7a3d25a1cc45863b549f2fb95edcb4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/bf599317aab70acfb280f701e2f6b6d4/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/217fec835b32ae391351c4d8e9e69555/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/2e1b865ec891b715ca69d0c18a8b7699/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/f7b5d8dacb74e865eae23090667937a2/transformed/exoplayer-datasource-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/fd2a44a29f191e49f05df05da3094353/transformed/exoplayer-database-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/4739a6c8a14f9933c2043f112df95692/transformed/exoplayer-extractor-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/07fae90a0b2924f5117dc7578aff45d2/transformed/exoplayer-decoder-2.17.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/b189d57eb38f4bdf8cf046dc99d9a49a/transformed/exoplayer-common-2.17.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/kim.tam/.gradle/caches/transforms-3/2bb3ca52cf5051646316f57271bfc2fc/transformed/gifdecoder-4.13.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/kim.tam/.gradle/caches/transforms-3/888b3198032fe558f414231ef0035c84/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/8aea674e3ff26df490b68045ec51afef/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/e624bb674065b70c4a91d08a86ce685e/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/2fdc444f58f0985dd90434a2dfd41b22/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/8b6dcb5af362fdf92b4433d1caf07205/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kim.tam/.gradle/caches/transforms-3/2e46ed5707fdca95e02919dff0607977/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:4:5-38
+		INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:6:5-27:19
+MERGED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-27:19
+MERGED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-27:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/da1373eaa6a2f2041dbfe6c01a6a9801/transformed/ui-tooling-1.2.0/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/da1373eaa6a2f2041dbfe6c01a6a9801/transformed/ui-tooling-1.2.0/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/4ca44f5a7447a30af88e78eabfcb5eab/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/4ca44f5a7447a30af88e78eabfcb5eab/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.material:material:1.6.0] /Users/kim.tam/.gradle/caches/transforms-3/da23dc382b282e5ba89b1bedf729d524/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.0] /Users/kim.tam/.gradle/caches/transforms-3/da23dc382b282e5ba89b1bedf729d524/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kim.tam/.gradle/caches/transforms-3/67d74bb691c4ec05aa34236cb9cb7aaf/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kim.tam/.gradle/caches/transforms-3/67d74bb691c4ec05aa34236cb9cb7aaf/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/kim.tam/.gradle/caches/transforms-3/43c2b1c86b809f8f85598142bae039fd/transformed/glide-4.13.2/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/kim.tam/.gradle/caches/transforms-3/43c2b1c86b809f8f85598142bae039fd/transformed/glide-4.13.2/AndroidManifest.xml:10:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/kim.tam/.gradle/caches/transforms-3/997336e581014f22da6e73875179d9d7/transformed/timber-5.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/kim.tam/.gradle/caches/transforms-3/997336e581014f22da6e73875179d9d7/transformed/timber-5.0.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/c6b5956e21c32a3476e3d699a30d17c8/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/c6b5956e21c32a3476e3d699a30d17c8/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] /Users/kim.tam/.gradle/caches/transforms-3/8a9e634b9fa2342236d9d40ba886a153/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/kim.tam/.gradle/caches/transforms-3/8a9e634b9fa2342236d9d40ba886a153/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kim.tam/.gradle/caches/transforms-3/05573bc09cc21b73f2cf6ad8a876b023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kim.tam/.gradle/caches/transforms-3/05573bc09cc21b73f2cf6ad8a876b023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kim.tam/.gradle/caches/transforms-3/8c908526ca69111e0f8d3ac93d810b89/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kim.tam/.gradle/caches/transforms-3/8c908526ca69111e0f8d3ac93d810b89/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kim.tam/.gradle/caches/transforms-3/2c7a3d25a1cc45863b549f2fb95edcb4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kim.tam/.gradle/caches/transforms-3/2c7a3d25a1cc45863b549f2fb95edcb4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/kim.tam/.gradle/caches/transforms-3/2bb3ca52cf5051646316f57271bfc2fc/transformed/gifdecoder-4.13.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/kim.tam/.gradle/caches/transforms-3/2bb3ca52cf5051646316f57271bfc2fc/transformed/gifdecoder-4.13.2/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/kim.tam/.gradle/caches/transforms-3/8a9e634b9fa2342236d9d40ba886a153/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:15:9-29
+	android:icon
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:14:9-50
+	android:dataExtractionRules
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:8:9-65
+activity#com.pcsfg.pckit_android.MainActivity
+ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:16:9-26:20
+	android:label
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:19:13-45
+	android:exported
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:18:13-36
+	android:theme
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:20:13-54
+	android:name
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+MERGED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [io.coil-kt:coil-compose:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/5fde92c7595f928cb5a0e177020b0907/transformed/coil-compose-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/5fde92c7595f928cb5a0e177020b0907/transformed/coil-compose-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/3d42e852420708d2916dbe55a31bd888/transformed/coil-compose-base-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/3d42e852420708d2916dbe55a31bd888/transformed/coil-compose-base-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.23.1] /Users/kim.tam/.gradle/caches/transforms-3/656a371734ca99db0f65eb44ab89a4cf/transformed/accompanist-drawablepainter-0.23.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.23.1] /Users/kim.tam/.gradle/caches/transforms-3/656a371734ca99db0f65eb44ab89a4cf/transformed/accompanist-drawablepainter-0.23.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/da1373eaa6a2f2041dbfe6c01a6a9801/transformed/ui-tooling-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/da1373eaa6a2f2041dbfe6c01a6a9801/transformed/ui-tooling-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [com.google.android.material:compose-theme-adapter:1.1.10] /Users/kim.tam/.gradle/caches/transforms-3/2d4adda866168b7b09ce93630c2aed51/transformed/compose-theme-adapter-1.1.10/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:compose-theme-adapter:1.1.10] /Users/kim.tam/.gradle/caches/transforms-3/2d4adda866168b7b09ce93630c2aed51/transformed/compose-theme-adapter-1.1.10/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-webview:0.25.0] /Users/kim.tam/.gradle/caches/transforms-3/1b09ad1535f20cbbfe423c29650d6630/transformed/accompanist-webview-0.25.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-webview:0.25.0] /Users/kim.tam/.gradle/caches/transforms-3/1b09ad1535f20cbbfe423c29650d6630/transformed/accompanist-webview-0.25.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/ff551397c0e4c62c4c2fa54a742b65b5/transformed/material-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/ff551397c0e4c62c4c2fa54a742b65b5/transformed/material-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.navigation:navigation-compose:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/ea52ee38fef47705920893c5c1a196f1/transformed/navigation-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/ea52ee38fef47705920893c5c1a196f1/transformed/navigation-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-permissions:0.25.0] /Users/kim.tam/.gradle/caches/transforms-3/535a70cabadead69b141305ba1d042ae/transformed/accompanist-permissions-0.25.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-permissions:0.25.0] /Users/kim.tam/.gradle/caches/transforms-3/535a70cabadead69b141305ba1d042ae/transformed/accompanist-permissions-0.25.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/kim.tam/.gradle/caches/transforms-3/ca8cc5be0a6e87cfbc47cf2c619910d3/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/kim.tam/.gradle/caches/transforms-3/ca8cc5be0a6e87cfbc47cf2c619910d3/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/64eb62ee241f5299b8c933f8a35ce0c8/transformed/ui-tooling-data-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/64eb62ee241f5299b8c933f8a35ce0c8/transformed/ui-tooling-data-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-ripple:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/2651c83a96fb3e680b408decbfdc0b36/transformed/material-ripple-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-ripple:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/2651c83a96fb3e680b408decbfdc0b36/transformed/material-ripple-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/41a9f5146f87ff799e18a00dc6d6a25e/transformed/foundation-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/41a9f5146f87ff799e18a00dc6d6a25e/transformed/foundation-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/03cbd3e38bbfb4eec1abfabf2dc72bba/transformed/material-icons-core-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/03cbd3e38bbfb4eec1abfabf2dc72bba/transformed/material-icons-core-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.animation:animation:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/8336e35dff1a3e4312490d5c9ac46464/transformed/animation-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.animation:animation:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/8336e35dff1a3e4312490d5c9ac46464/transformed/animation-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/c9a5a1a5238eddaf917df5f7227a69a6/transformed/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/c9a5a1a5238eddaf917df5f7227a69a6/transformed/lifecycle-viewmodel-compose-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.25.0] /Users/kim.tam/.gradle/caches/transforms-3/485118f66bc149e8ddc4e97901bd01b1/transformed/accompanist-systemuicontroller-0.25.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.25.0] /Users/kim.tam/.gradle/caches/transforms-3/485118f66bc149e8ddc4e97901bd01b1/transformed/accompanist-systemuicontroller-0.25.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/9bfc507e8d37fb064c22e3c82e4f58ad/transformed/foundation-layout-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/9bfc507e8d37fb064c22e3c82e4f58ad/transformed/foundation-layout-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.animation:animation-core:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/027f509137ed5ab0443276cf6d91b862/transformed/animation-core-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.animation:animation-core:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/027f509137ed5ab0443276cf6d91b862/transformed/animation-core-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/36118554f4347023d5ea241ff8c990b9/transformed/ui-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/36118554f4347023d5ea241ff8c990b9/transformed/ui-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/17ceedc568815d985f4d3774a37659e8/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/17ceedc568815d985f4d3774a37659e8/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/0f9726ec1014bb1a6513ee182f6315f3/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/0f9726ec1014bb1a6513ee182f6315f3/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/kim.tam/.gradle/caches/transforms-3/04acc67990b36f6f9c4c338471abec96/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/kim.tam/.gradle/caches/transforms-3/04acc67990b36f6f9c4c338471abec96/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/c5f476abbabc8a6a122bb1ff597c141e/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/c5f476abbabc8a6a122bb1ff597c141e/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/200b6160791723f0ec25b2a2272da4df/transformed/navigation-common-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/200b6160791723f0ec25b2a2272da4df/transformed/navigation-common-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/8a9c88e8f4147e1b93dccde357f1c173/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/8a9c88e8f4147e1b93dccde357f1c173/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/19d10abab3d838623a349dd33f4a1e48/transformed/ui-tooling-preview-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/19d10abab3d838623a349dd33f4a1e48/transformed/ui-tooling-preview-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/995e62846167dc18f270bc426a8c6d50/transformed/ui-text-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/995e62846167dc18f270bc426a8c6d50/transformed/ui-text-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/60ba8e1de2327924fcd06686863311f7/transformed/runtime-saveable-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/60ba8e1de2327924fcd06686863311f7/transformed/runtime-saveable-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/0055f7b281f1e788407071ebf4e58efb/transformed/ui-graphics-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/0055f7b281f1e788407071ebf4e58efb/transformed/ui-graphics-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/e1869f22f527955bdb23781559d42d2c/transformed/ui-unit-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/e1869f22f527955bdb23781559d42d2c/transformed/ui-unit-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/818ffa0e7fc7013cf27b8315e7b1b686/transformed/ui-geometry-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/818ffa0e7fc7013cf27b8315e7b1b686/transformed/ui-geometry-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/34f8efe2db63bffb4e5f46534c104055/transformed/runtime-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/34f8efe2db63bffb4e5f46534c104055/transformed/runtime-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/bf9c083e4e17a3c95164aa35a2fb06eb/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/bf9c083e4e17a3c95164aa35a2fb06eb/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/4ca44f5a7447a30af88e78eabfcb5eab/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/4ca44f5a7447a30af88e78eabfcb5eab/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [com.google.android.material:material:1.6.0] /Users/kim.tam/.gradle/caches/transforms-3/da23dc382b282e5ba89b1bedf729d524/transformed/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] /Users/kim.tam/.gradle/caches/transforms-3/da23dc382b282e5ba89b1bedf729d524/transformed/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/7d28c2881fecf0ae781fc79b97795842/transformed/camera-view-1.2.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-view:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/7d28c2881fecf0ae781fc79b97795842/transformed/camera-view-1.2.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kim.tam/.gradle/caches/transforms-3/67d74bb691c4ec05aa34236cb9cb7aaf/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kim.tam/.gradle/caches/transforms-3/67d74bb691c4ec05aa34236cb9cb7aaf/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/kim.tam/.gradle/caches/transforms-3/8a39463ca7a3527efd979299126c223b/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/kim.tam/.gradle/caches/transforms-3/8a39463ca7a3527efd979299126c223b/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/kim.tam/.gradle/caches/transforms-3/43c2b1c86b809f8f85598142bae039fd/transformed/glide-4.13.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/kim.tam/.gradle/caches/transforms-3/43c2b1c86b809f8f85598142bae039fd/transformed/glide-4.13.2/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/c5337c5af883d5a89eb44de248036a9c/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/c5337c5af883d5a89eb44de248036a9c/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kim.tam/.gradle/caches/transforms-3/e01b3c478d1cfea9eff112abfb6ab7ac/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/kim.tam/.gradle/caches/transforms-3/e01b3c478d1cfea9eff112abfb6ab7ac/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/kim.tam/.gradle/caches/transforms-3/9349c0d4fb9df1ce2768854a860abafc/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/kim.tam/.gradle/caches/transforms-3/9349c0d4fb9df1ce2768854a860abafc/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/1d1ec35a0b073539f88987e1e3135d4a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/1d1ec35a0b073539f88987e1e3135d4a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/8169044863e32aacf8847f97d6dae8de/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/8169044863e32aacf8847f97d6dae8de/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/b4f8bd67f68df867f824843476c0e792/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/b4f8bd67f68df867f824843476c0e792/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/4424f29b450240f8d32209647411922f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/4424f29b450240f8d32209647411922f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/d030149fbf355c45d4d4d1aa5ed3f63d/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/d030149fbf355c45d4d4d1aa5ed3f63d/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil-video:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/a6e1e371b108daa583a2ae956e7f6cff/transformed/coil-video-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-video:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/a6e1e371b108daa583a2ae956e7f6cff/transformed/coil-video-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/40276d4e874ca6a8b0973f37f54ddb21/transformed/coil-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/40276d4e874ca6a8b0973f37f54ddb21/transformed/coil-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/c8881eef46e5f475578cc118e64b3970/transformed/coil-base-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/c8881eef46e5f475578cc118e64b3970/transformed/coil-base-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/23c478fdbf8b10e43f8b3021dceb5959/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/23c478fdbf8b10e43f8b3021dceb5959/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/kim.tam/.gradle/caches/transforms-3/9b6e7b867c439fcad6c05c2e8ffb5597/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/kim.tam/.gradle/caches/transforms-3/9b6e7b867c439fcad6c05c2e8ffb5597/transformed/core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/6c46c8217620f1196b4254bfb03d91af/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/6c46c8217620f1196b4254bfb03d91af/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/2c0a8024b87fc4a8dd25b71f86c885a8/transformed/ui-util-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-util:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/2c0a8024b87fc4a8dd25b71f86c885a8/transformed/ui-util-1.2.0/AndroidManifest.xml:20:5-21:38
+MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/kim.tam/.gradle/caches/transforms-3/997336e581014f22da6e73875179d9d7/transformed/timber-5.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] /Users/kim.tam/.gradle/caches/transforms-3/997336e581014f22da6e73875179d9d7/transformed/timber-5.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/1551525bad72895c8c43417154f7aa5c/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/1551525bad72895c8c43417154f7aa5c/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-video:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/5de9b08f9622b561e2569bbbc2bb1edb/transformed/camera-video-1.2.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-video:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/5de9b08f9622b561e2569bbbc2bb1edb/transformed/camera-video-1.2.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2910bb6d42f608a321a75e9026ea1fbf/transformed/camera-lifecycle-1.2.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2910bb6d42f608a321a75e9026ea1fbf/transformed/camera-lifecycle-1.2.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/c6b5956e21c32a3476e3d699a30d17c8/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/c6b5956e21c32a3476e3d699a30d17c8/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:21:5-44
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/kim.tam/.gradle/caches/transforms-3/b314475ea3d8c590c4113e5569225483/transformed/napier-debug/AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.aakira:napier-android-debug:1.4.1] /Users/kim.tam/.gradle/caches/transforms-3/b314475ea3d8c590c4113e5569225483/transformed/napier-debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/9a5c9e7612bd0dc93d28606270b5c8bf/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/9a5c9e7612bd0dc93d28606270b5c8bf/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/kim.tam/.gradle/caches/transforms-3/177006de5bcc9abcbdc2f17a27bb1d45/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/kim.tam/.gradle/caches/transforms-3/177006de5bcc9abcbdc2f17a27bb1d45/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/481636148d9a62f643004c16180eba3b/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/481636148d9a62f643004c16180eba3b/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kim.tam/.gradle/caches/transforms-3/78a187a07887b946401fee9339ec4fa3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/kim.tam/.gradle/caches/transforms-3/78a187a07887b946401fee9339ec4fa3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kim.tam/.gradle/caches/transforms-3/b265378afefd98a05d6561c9b86651ef/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kim.tam/.gradle/caches/transforms-3/b265378afefd98a05d6561c9b86651ef/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/9cc27a85b544e2bd308b01e10d0b1220/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/9cc27a85b544e2bd308b01e10d0b1220/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kim.tam/.gradle/caches/transforms-3/75d77ab2d713b31cd19a64f7712ed072/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kim.tam/.gradle/caches/transforms-3/75d77ab2d713b31cd19a64f7712ed072/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kim.tam/.gradle/caches/transforms-3/0d70a48b26e129e8342f05440a7532c7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kim.tam/.gradle/caches/transforms-3/0d70a48b26e129e8342f05440a7532c7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/e43e75dfaebcfbccf6fa7f2f1a8bfd50/transformed/exoplayer-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/e43e75dfaebcfbccf6fa7f2f1a8bfd50/transformed/exoplayer-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/a0a3b700dd14fd8565c27f1721f1a902/transformed/exoplayer-dash-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/a0a3b700dd14fd8565c27f1721f1a902/transformed/exoplayer-dash-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/3a14090d4923299f77f3ee5d31b29d40/transformed/exoplayer-hls-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/3a14090d4923299f77f3ee5d31b29d40/transformed/exoplayer-hls-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/3e40eb0ea2eef2def6be72f91f704b97/transformed/exoplayer-rtsp-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/3e40eb0ea2eef2def6be72f91f704b97/transformed/exoplayer-rtsp-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/eb7d0705e2bc70feac975bcff038b036/transformed/exoplayer-smoothstreaming-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/eb7d0705e2bc70feac975bcff038b036/transformed/exoplayer-smoothstreaming-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/0ca9071adf2aba19f65f22a1380cef88/transformed/exoplayer-ui-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/0ca9071adf2aba19f65f22a1380cef88/transformed/exoplayer-ui-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/afcb84e6de65f7756306acc82dc58755/transformed/exoplayer-core-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/afcb84e6de65f7756306acc82dc58755/transformed/exoplayer-core-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/364f02d958da6083eb7b4ab0f244e170/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/364f02d958da6083eb7b4ab0f244e170/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/kim.tam/.gradle/caches/transforms-3/215580773b36863836b5f9386262becc/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/kim.tam/.gradle/caches/transforms-3/215580773b36863836b5f9386262becc/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/kim.tam/.gradle/caches/transforms-3/7774b338963ffc00386dc8c14655302e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/kim.tam/.gradle/caches/transforms-3/7774b338963ffc00386dc8c14655302e/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.3] /Users/kim.tam/.gradle/caches/transforms-3/3e5f057f2b6d26bff2e0b06ab67b2b84/transformed/media-1.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.3] /Users/kim.tam/.gradle/caches/transforms-3/3e5f057f2b6d26bff2e0b06ab67b2b84/transformed/media-1.4.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/kim.tam/.gradle/caches/transforms-3/8a9e634b9fa2342236d9d40ba886a153/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/kim.tam/.gradle/caches/transforms-3/8a9e634b9fa2342236d9d40ba886a153/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kim.tam/.gradle/caches/transforms-3/05573bc09cc21b73f2cf6ad8a876b023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kim.tam/.gradle/caches/transforms-3/05573bc09cc21b73f2cf6ad8a876b023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/d00c1625cdd4b4cdf73075b29c7d8f41/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/d00c1625cdd4b4cdf73075b29c7d8f41/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/c385480978bb58ec994541db18fa1f78/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/c385480978bb58ec994541db18fa1f78/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/30d7b27e8287aa252121891359c707f1/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/kim.tam/.gradle/caches/transforms-3/30d7b27e8287aa252121891359c707f1/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] /Users/kim.tam/.gradle/caches/transforms-3/e6b512d7351a8dc7278da54d99ca3030/transformed/viewbinding-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] /Users/kim.tam/.gradle/caches/transforms-3/e6b512d7351a8dc7278da54d99ca3030/transformed/viewbinding-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kim.tam/.gradle/caches/transforms-3/8c908526ca69111e0f8d3ac93d810b89/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kim.tam/.gradle/caches/transforms-3/8c908526ca69111e0f8d3ac93d810b89/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/67d07b777e83d33bb10df35342aa0522/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/67d07b777e83d33bb10df35342aa0522/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kim.tam/.gradle/caches/transforms-3/2c7a3d25a1cc45863b549f2fb95edcb4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kim.tam/.gradle/caches/transforms-3/2c7a3d25a1cc45863b549f2fb95edcb4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/bf599317aab70acfb280f701e2f6b6d4/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/kim.tam/.gradle/caches/transforms-3/bf599317aab70acfb280f701e2f6b6d4/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/217fec835b32ae391351c4d8e9e69555/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/217fec835b32ae391351c4d8e9e69555/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/2e1b865ec891b715ca69d0c18a8b7699/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/2e1b865ec891b715ca69d0c18a8b7699/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/f7b5d8dacb74e865eae23090667937a2/transformed/exoplayer-datasource-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/f7b5d8dacb74e865eae23090667937a2/transformed/exoplayer-datasource-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/fd2a44a29f191e49f05df05da3094353/transformed/exoplayer-database-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/fd2a44a29f191e49f05df05da3094353/transformed/exoplayer-database-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/4739a6c8a14f9933c2043f112df95692/transformed/exoplayer-extractor-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/4739a6c8a14f9933c2043f112df95692/transformed/exoplayer-extractor-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/07fae90a0b2924f5117dc7578aff45d2/transformed/exoplayer-decoder-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/07fae90a0b2924f5117dc7578aff45d2/transformed/exoplayer-decoder-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/b189d57eb38f4bdf8cf046dc99d9a49a/transformed/exoplayer-common-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/b189d57eb38f4bdf8cf046dc99d9a49a/transformed/exoplayer-common-2.17.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/kim.tam/.gradle/caches/transforms-3/2bb3ca52cf5051646316f57271bfc2fc/transformed/gifdecoder-4.13.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /Users/kim.tam/.gradle/caches/transforms-3/2bb3ca52cf5051646316f57271bfc2fc/transformed/gifdecoder-4.13.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/kim.tam/.gradle/caches/transforms-3/888b3198032fe558f414231ef0035c84/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/kim.tam/.gradle/caches/transforms-3/888b3198032fe558f414231ef0035c84/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/8aea674e3ff26df490b68045ec51afef/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/8aea674e3ff26df490b68045ec51afef/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/e624bb674065b70c4a91d08a86ce685e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/e624bb674065b70c4a91d08a86ce685e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/2fdc444f58f0985dd90434a2dfd41b22/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/2fdc444f58f0985dd90434a2dfd41b22/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/8b6dcb5af362fdf92b4433d1caf07205/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/8b6dcb5af362fdf92b4433d1caf07205/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kim.tam/.gradle/caches/transforms-3/2e46ed5707fdca95e02919dff0607977/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/kim.tam/.gradle/caches/transforms-3/2e46ed5707fdca95e02919dff0607977/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/afcb84e6de65f7756306acc82dc58755/transformed/exoplayer-core-2.17.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/afcb84e6de65f7756306acc82dc58755/transformed/exoplayer-core-2.17.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/b189d57eb38f4bdf8cf046dc99d9a49a/transformed/exoplayer-common-2.17.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] /Users/kim.tam/.gradle/caches/transforms-3/b189d57eb38f4bdf8cf046dc99d9a49a/transformed/exoplayer-common-2.17.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.CAMERA
+ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:22-62
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-83
+	android:name
+		ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:22-80
+provider#com.pcsfg.pckit.chatkit.common.extension.CameraFileProvider
+ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-26:20
+	android:grantUriPermissions
+		ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-67
+	android:exported
+		ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-87
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:53
+	android:resource
+		ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-50
+	android:name
+		ADDED from [:PCKit] /Users/kim.tam/Documents/Development/bitbucket/PCKit-Android/PCKit/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/da1373eaa6a2f2041dbfe6c01a6a9801/transformed/ui-tooling-1.2.0/AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/da1373eaa6a2f2041dbfe6c01a6a9801/transformed/ui-tooling-1.2.0/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/da1373eaa6a2f2041dbfe6c01a6a9801/transformed/ui-tooling-1.2.0/AndroidManifest.xml:25:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/4ca44f5a7447a30af88e78eabfcb5eab/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/4ca44f5a7447a30af88e78eabfcb5eab/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/4ca44f5a7447a30af88e78eabfcb5eab/transformed/ui-test-manifest-1.2.0/AndroidManifest.xml:25:13-63
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/c6b5956e21c32a3476e3d699a30d17c8/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/c6b5956e21c32a3476e3d699a30d17c8/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:29:9-33:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:29:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:26:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:28:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:25:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /Users/kim.tam/.gradle/caches/transforms-3/2b5697b356b1df9444449c8e07870119/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:31:17-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kim.tam/.gradle/caches/transforms-3/05573bc09cc21b73f2cf6ad8a876b023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kim.tam/.gradle/caches/transforms-3/05573bc09cc21b73f2cf6ad8a876b023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kim.tam/.gradle/caches/transforms-3/8c908526ca69111e0f8d3ac93d810b89/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kim.tam/.gradle/caches/transforms-3/8c908526ca69111e0f8d3ac93d810b89/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/kim.tam/.gradle/caches/transforms-3/ad21252005288b43dc5c6615d0194529/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/kim.tam/.gradle/caches/transforms-3/cc94354892c57bb7151390837bc27f9f/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kim.tam/.gradle/caches/transforms-3/05573bc09cc21b73f2cf6ad8a876b023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kim.tam/.gradle/caches/transforms-3/05573bc09cc21b73f2cf6ad8a876b023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/kim.tam/.gradle/caches/transforms-3/05573bc09cc21b73f2cf6ad8a876b023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+drawable bg_test
+drawable circled_play
+drawable ic_attach_file
+drawable ic_back
+drawable ic_back_no_shadow
+drawable ic_excelcell
+drawable ic_pdfcell
+drawable ic_photo_camera
+drawable ic_photo_library
+drawable ic_pptcell
+drawable ic_select_file
+drawable ic_user_profile
+drawable ic_voice_msg
+drawable ic_wordcell
+string ChatInputView.Camera
+string ChatInputView.File
+string ChatInputView.Message.PlaceHolder
+string ChatInputView.PhotoLibrary
+string ChatView.ActionMenu.InviteToJoin
+string ChatView.ActionMenu.LeaveRoom
+string ChatView.ActionMenu.ShowAllMessage
+string ChatView.ActionMenu.ShowRoomMessageOnly
+string ChatView.ChatUserListHeader
+string ChatView.InviteList.Header
+string ChatView.Read
+string ChatView.Unread
+xml filepaths

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Chat View -->
+    <string name="ChatView.Unread">Un-read</string>
+    <string name="ChatView.Read">Read</string>
+    <string name="ChatView.ChatUserListHeader">Participants</string>
+    <string name="ChatView.ActionMenu.InviteToJoin">Undang Untuk Bergabung</string>
+    <string name="ChatView.ActionMenu.ShowRoomMessageOnly">Hanya Tampilkan Pesan Di Ruangan Ini</string>
+    <string name="ChatView.ActionMenu.ShowAllMessage">Tampilkan Semua Pesan</string>
+    <string name="ChatView.ActionMenu.LeaveRoom">Keluar dari Ruangan</string>
+    <string name="ChatView.InviteList.Header">Undang</string>
+
+    <!-- Chat Input View -->
+    <string name="ChatInputView.File">Dokumen</string>
+    <string name="ChatInputView.Camera">Kamera</string>
+    <string name="ChatInputView.PhotoLibrary">Galeri</string>
+    <string name="ChatInputView.Message.PlaceHolder">Message</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ChatInputView.Camera">Camera</string>
+    <string name="ChatInputView.File">Document</string>
+    <string name="ChatInputView.Message.PlaceHolder">Message</string>
+    <string name="ChatInputView.PhotoLibrary">Gallery</string>
+    <string name="ChatView.ActionMenu.InviteToJoin">Invite To Join</string>
+    <string name="ChatView.ActionMenu.LeaveRoom">Leave Room</string>
+    <string name="ChatView.ActionMenu.ShowAllMessage">All Messages</string>
+    <string name="ChatView.ActionMenu.ShowRoomMessageOnly">Only Show Messages in This Room</string>
+    <string name="ChatView.ChatUserListHeader">Participants</string>
+    <string name="ChatView.InviteList.Header">Invite</string>
+    <string name="ChatView.Read">Read</string>
+    <string name="ChatView.Unread">Un-read</string>
+</resources>

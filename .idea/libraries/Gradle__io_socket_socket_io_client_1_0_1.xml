@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.socket:socket.io-client:1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/1.0.1/9b0380ee602d37e0b6ec1fbbd8f0a3c0e1862788/socket.io-client-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/1.0.1/6fd23fd27d71db9f2a41a28e6f3a1bccd39420f/socket.io-client-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/1.0.1/6f4d631e6b1825632c6dee0314e7aa7cc3a713c0/socket.io-client-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

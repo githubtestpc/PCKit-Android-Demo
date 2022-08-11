@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Chat View -->
+    <string name="ChatView.Unread">未读</string>
+    <string name="ChatView.Read">已读</string>
+    <string name="ChatView.ChatUserListHeader"> 位参与者</string>
+    <string name="ChatView.ActionMenu.InviteToJoin">邀请加入</string>
+    <string name="ChatView.ActionMenu.ShowRoomMessageOnly">只显示本对话室对话</string>
+    <string name="ChatView.ActionMenu.ShowAllMessage">显示所有对话</string>
+    <string name="ChatView.ActionMenu.LeaveRoom">离开对话室</string>
+    <string name="ChatView.InviteList.Header">邀请</string>
+
+    <!-- Chat Input View -->
+    <string name="ChatInputView.Camera">相机</string>
+    <string name="ChatInputView.File">文件</string>
+    <string name="ChatInputView.PhotoLibrary">图片库</string>
+    <string name="ChatInputView.Message.PlaceHolder">讯息</string>
+</resources>
